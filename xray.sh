@@ -1,6 +1,6 @@
 #!/bin/sh
 
-UUID=f81cb6ea-dee5-41a1-a6d2-4c875d04fddf
+UUID=6b630d24-4445-492a-8b1f-d32fb79a2c2d
 
 # Set config.json
 sed -i "s/PORT/$PORT/g" /etc/xray/config.json
